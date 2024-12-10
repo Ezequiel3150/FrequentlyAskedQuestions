@@ -1,0 +1,52 @@
+*{
+    font-family: Inter;
+    
+    
+    }
+
+ body{
+    padding:0;
+    margin:0;
+    background-color: whitesmoke;
+ }   
+.encabezado {
+    text-align: center;
+    background-color: white;
+    
+    
+    margin: 0;
+    padding: 15px;;
+    width: 100%;
+    
+}
+h1{
+    
+    font-size: 2.25rem;
+    font-weight: 600px;
+}
+h2{
+    font-size: 1.5rem;
+    font-weight: 600px;
+}
+p{
+    font-size: 1rem;
+    font-weight: 400px;
+    padding-left: 0px ;
+}
+hr{
+    width: 100%;
+    background-color: #D2D5DA;
+}
+.respuesta{
+justify-self: center;
+width: 45%;
+text-align: left;
+padding-left: 0px ;
+}
+ol{
+    padding-left: 25px ;
+}
+ul{
+
+    padding-left: 25px ;
+}
